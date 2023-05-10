@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Alexis Nwala 👋
 
-I'm a full-stack developer based in Abuja, Nigeria. I have experience in creating web applications using the following 
+I'm a full-stack developer based in Abuja, Nigeria.
+I build beautiful, highly reactive web applications using the following languages and technologies. 
 
 ### Languages
 
