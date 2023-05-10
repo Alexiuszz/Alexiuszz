@@ -42,6 +42,9 @@ I specialize in using the following technologies to build scalable and responsiv
 <img src="https://img.shields.io/badge/-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"/> Babel <br>
 <img src="https://img.icons8.com/color/30/000000/webpack.png"/> Webpack <br>
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=react-router"/> React Router <br>
+<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=rive"/> Rive <br>
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=figma"/> Figma <br>
+
 ---
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Alexiuszz)
