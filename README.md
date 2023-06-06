@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Alexis Nwala 😃
+### Hi, I'm Alexis Nwala 😃
 
 I'm a full-stack developer based in Abuja, Nigeria.
 I build beautiful, highly reactive web applications using the following languages and technologies. 
