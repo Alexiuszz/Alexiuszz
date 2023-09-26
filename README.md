@@ -46,7 +46,6 @@ I specialize in using the following technologies to build scalable and responsiv
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=Alexiuszz)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiuszz)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexiuszz)
 
