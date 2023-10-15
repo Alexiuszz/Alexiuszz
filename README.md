@@ -29,7 +29,7 @@ I specialize in using the following technologies to build scalable and responsiv
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=rive"/> Rive <br>
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=figma"/> Figma <br>
 
-<--
+<!--
 ---
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiuszz)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexiuszz)
