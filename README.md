@@ -1,7 +1,6 @@
 ### Hi, I'm Alexis Nwala 😃
 
-I'm a full-stack developer based in Abuja, Nigeria.
-I build beautiful, highly reactive web applications using the following languages and technologies. 
+I'm a Software Engineer based in Abuja, Nigeria.
 
 ### Languages
 
